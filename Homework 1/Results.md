@@ -3,7 +3,7 @@
 Stock price prediction using yfinance data from 1-1-2023 to 12-31-2024 for MSFT stock price
 
 ---
-## Linear regression model
+## Linear Regression model
 - Train Error: 80.22625277128465
 - Test Loss: 7971.891519172626
 
