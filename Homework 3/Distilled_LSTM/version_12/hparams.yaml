@@ -1,0 +1,7 @@
+bidirectional: false
+days: 30
+dropout: 0.0
+hidden_dim: 64
+lr: 0.001
+num_feature_stocks: 20
+num_layers: 1
